@@ -7,15 +7,10 @@ const nitems = 7
 const labels = [
   'Schindler\'s List',
   'The Silence of the Lambs',
-  'Goodfellas',
   'Back to the Future',
-  'Once Upon a Time in America',
   'Amadeus',
-  'Scarface',
   'Raiders of the Lost Ark',
-  'Das Boot',
   'The Shawshank Redemption',
-  'Pulp Fiction',
   'Forrest Gump',
   'The Lion King',
   'Saving Private Ryan',
@@ -23,7 +18,12 @@ const labels = [
   'Memento',
   'Fight Club',
   'The Matrix',
-  'The Green Mile'
+  'The Prestige',
+  'The Departed',
+  'Inception',
+  'Django Unchained',
+  'The Godfather',
+  'Alien'
 ]
 
 function range (n) { return [...Array(n).keys()] }
